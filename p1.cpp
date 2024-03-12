@@ -4,7 +4,6 @@ void main()
 {
   int a,b,c;
   char d[25];
-
   cout<<"enter two number for addition";
   cout<<"enter a:- ";
   cin>>a;
